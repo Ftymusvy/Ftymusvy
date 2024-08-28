@@ -3,7 +3,7 @@ I am a biomedical engineer with a strong interest in software development. My sk
 
 <p align='center'>
    <img width="450px" height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ftymusvy&theme=vue&bg_color=FFFFFF" alt="GitHub Profile Details" />
-   <img width="350px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ftymusvy&layout=compact&bg_color=FFFFFF&title_color=0000FF&text_color=0000FF&icon_color=0000FF&hide_border=true" alt="Top Languages" />
+   <img width="350px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ftymusvy&layout=compact&bg_color=FFFFFF&hide_border=true" alt="Top Languages" />   
 </p>
 
 
