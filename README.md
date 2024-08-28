@@ -14,10 +14,12 @@ I am a biomedical engineer with a strong interest in software development. My sk
    <a href="https://www.linkedin.com/in/ftme-mousavinejad">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>>
+   <a href="fatemehmosavinejad202@gmail.com">
+       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+   </a>
 
 <p align='center'>
-   📫 How to reach me: <a href='fatemehmosavinejad202@gmail.com'>
-      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>fatemehmosavinejad202@gmail.com</a>
+   📫 How to reach me: <a href='fatemehmosavinejad202@gmail.com'>fatemehmosavinejad202@gmail.com</a>
 </p>
 
 
