@@ -2,7 +2,7 @@
 I am a biomedical engineer with a strong interest in software development. My skills include working with Proteus, microcontroller programming using CodeVision, Python programming, and machine learning. Recently, I have also started working in the field of deep learning. Additionally, I have developed a keen interest in web development using Python and the Django framework, collaborating with professionals in this area. You can find some of my projects in the repository section.
 
 <p align='center'>
-   <img width="450px" height="250px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ftymusvy&theme=vue&bg_color=FFFFFF" alt="GitHub Profile Details" />
+   <img width="450px"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ftymusvy&theme=vue&bg_color=FFFFFF" alt="GitHub Profile Details" />
    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ftymusvy&layout=compact&bg_color=FFFFFF&hide_border=true" alt="Top Languages" />   
 </p>
 
