@@ -48,9 +48,4 @@ I am a biomedical engineer with a strong interest in software development. My sk
 *   [Seven-Segment Display](https://github.com/Ftymusvy/Display-numbers-atmega32-) - Displayed numbers on a seven-segment display using the ATmega32 microcontroller.
 *    [Temperature Display](https://github.com/Ftymusvy/temperature-display-atmega32-) - Displayed ambient temperature using a microcontroller (including Proteus simulation).
 
-<div align="center" style="margin: 40px 0">
-   <a href="https://github.com/Ftymusvy/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=Ftymusvy&color=DE002D">
-   </a>
-</div>
 
