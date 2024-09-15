@@ -48,4 +48,9 @@ I am a biomedical engineer with a strong interest in software development. My sk
 *   [Seven-Segment Display](https://github.com/Ftymusvy/Display-numbers-atmega32-) - Displayed numbers on a seven-segment display using the ATmega32 microcontroller.
 *    [Temperature Display](https://github.com/Ftymusvy/temperature-display-atmega32-) - Displayed ambient temperature using a microcontroller (including Proteus simulation).
 
+## Demo
+
+Here is a demo of my coding:
+
+[Click here to watch the demo video](https://drive.google.com/file/d/18nbqPlrT_h_UNHJClcbNpKXk6SGXdxiu/view?usp=sharing)
 
