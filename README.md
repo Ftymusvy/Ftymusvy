@@ -25,9 +25,13 @@ I am a biomedical engineer with a strong interest in software development. I hav
 
 
 ## 🛠 Skills & Abilities
-* Data analysis skills: collecting and analyzing data using SPSS, R
-* Proficient in Python programming for data analysis, machine learning and Django framework(web development)
-* Microsoft Office package, MATLAB, C++
+* Programming Languages: Python
+* Frameworks: Django
+* Databases: PostgreSQL, MySQL
+* Development Tools: Git, GitHub
+* Front-end Technologies: HTML, CSS, JavaScript
+* Web Services and APIs: RESTful API, JSON
+* Other Frameworks: Docker 
 
 <p align='center'>
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -45,9 +49,6 @@ I am a biomedical engineer with a strong interest in software development. I hav
 
 *   [E-commerce Website Design](https://github.com/Ftymusvy/digikala-site-django) - Designed a simple e-commerce website similar to Digikala using the Django framework.
 *   [Simple Blog Design](https://github.com/Ftymusvy/-Django-site-design-project-blog) - Designed a simple blog using Python and the Django framework.
-*   [Hanging Knife Game](https://github.com/Ftymusvy/Hanging-knife-game-atmega32-) - Developed a hanging knife game using a stepper motor and ATmega32 (including Proteus simulation).
-*   [Seven-Segment Display](https://github.com/Ftymusvy/Display-numbers-atmega32-) - Displayed numbers on a seven-segment display using the ATmega32 microcontroller.
-*    [Temperature Display](https://github.com/Ftymusvy/temperature-display-atmega32-) - Displayed ambient temperature using a microcontroller (including Proteus simulation).
 
 ## Demo
 
