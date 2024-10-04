@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Fatemeh 👋</h1>
 
-I am a biomedical engineer with a strong interest in software development. My skills include working with Proteus, microcontroller programming using CodeVision, Python programming, and machine learning. Recently, I have also started working in the field of deep learning. Additionally, I have developed a keen interest in web development using Python and the Django framework, collaborating with professionals in this area. You can find some of my projects in the repository section.
+I am a biomedical engineer with a strong interest in software development. I have developed a keen interest in web development using Python and the Django framework, collaborating with professionals in this area. I’m eager to work in a team to grow and learn with more experienced professionals. You can find some of my projects in the repository section.
 
 <p align='center'>
 
@@ -30,13 +30,14 @@ I am a biomedical engineer with a strong interest in software development. My sk
 * Microsoft Office package, MATLAB, C++
 
 <p align='center'>
-   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-   <img src="https://img.shields.io/badge/SPSS-2C2D72?style=for-the-badge&logo=ibm&logoColor=white" />
-   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
-   <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=rest&logoColor=white" />
+      <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+
 </p>
 
 
